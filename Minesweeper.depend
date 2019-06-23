@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561293595 source:a:\schule___\bko\fächer\prog\minesweeper\funk.c
+	"funk.h"
+
+1561292739 a:\schule___\bko\fächer\prog\minesweeper\funk.h
+
+1561294420 source:a:\schule___\bko\fächer\prog\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funk.c"
+
+1561293595 a:\schule___\bko\fächer\prog\minesweeper\funk.c
+	"funk.h"
+
